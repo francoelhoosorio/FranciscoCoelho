@@ -1,4 +1,4 @@
-# Olá! Seja Bem Vindo!
+# Olá, Seja Bem Vindo!
 
 [Do not speak in Portuguese? Click here to see the English version](https://github.com/francoelhoosorio/FranciscoCoelho/blob/main/README(us).md)
 
