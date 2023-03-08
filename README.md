@@ -1,6 +1,6 @@
 # Olá! Seja Bem Vindo!
 
-[Do not speak in Portuguese? Click here to see the English version]([<https://links.com>](https://github.com/francoelhoosorio/FranciscoCoelho/blob/main/README(us).md))
+[Do not speak in Portuguese? Click here to see the English version](https://github.com/francoelhoosorio/FranciscoCoelho/blob/main/README(us).md)
 
 Eu sou Francisco Coelho, um estudante de Engenharia da Computação com enfasê em desenvolvimento com Node.js.<br/>
 Embora eu não tenha experiência profissional em Node.js, possuo habilidades e conhecimento em desenvolvimento web e outras tecnologias.<br/>
