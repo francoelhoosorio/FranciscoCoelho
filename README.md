@@ -2,15 +2,15 @@
 
 [Do not speak in Portuguese? Click here to see the English version](https://github.com/francoelhoosorio/FranciscoCoelho/blob/main/README(us).md)
 
-Eu sou Francisco Coelho, um estudante de Engenharia da Computação com enfasê em desenvolvimento com Node.js.<br/>
-Embora eu não tenha experiência profissional em Node.js, possuo habilidades e conhecimento em desenvolvimento web e outras tecnologias.<br/>
-Além disso também aprendi outras tecnologias relevantes, como HTML5, CSS3, JavaScript, Git e outras tecnologias de desenvolvimento de software.<br/>
-Eu sou um indivíduo motivado e apaixonado por aprender coisas novas. Tenho muita vontade de aplicar minhas habilidades em Node.js e outros conhecimentos em uma oportunidade de trabalho em tempo integral, e estou disposto a trabalhar duro e aprender mais para me tornar um membro valioso da equipe.<br/>
-Sou um indivíduo organizado e com habilidades interpessoais que me permitem trabalhar bem em equipe. Sou capaz de realizar tarefas de forma independente e de forma colaborativa com outras pessoas.
+Eu sou Francisco Coelho, um estudante de Engenharia da Computação com ênfase em desenvolvimento com Node.js.<br/>
+Embora eu não tenha experiência profissional em Node.js, possuo habilidades e conhecimento em desenvolvimento web.<br/>
+Além disso também aprendi outras tecnologias relevantes, como HTML, CSS, JavaScript, Git e outras ferramentas de desenvolvimento de software.<br/>
+Eu sou um indivíduo motivado e apaixonado por aprender coisas novas. Tenho muita vontade de aplicar minhas habilidades em Node.js e outros conhecimentos em uma oportunidade de trabalho em tempo integral, e estou disposto a trabalhar duro e aprender mais para me tornar um membro valioso para a equipe.<br/>
+Sou organizado e possuo habilidades interpessoais que me permitem trabalhar bem em equipe. Sou capaz de realizar tarefas de forma independente e de forma colaborativa com outras pessoas.
 
 ## Sobre mim:
 
-📚 Estou Cursando Engenharia da Computação, no Centro Universitário Eniac; <br/>
+📚 Estou Cursando Engenharia da Computação, no Centro Universitário ENIAC; <br/>
 🧠 Estou sempre aberto para novos aprendizados;
 
 ![francoelhoosorio GitHub stats](https://github-readme-stats.vercel.app/api?username=francoelhoosorio&show_icons=true&theme=tokyonight)
